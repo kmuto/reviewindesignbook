@@ -1,0 +1,28 @@
+review_version: 2.0
+bookname: reviewindesign-sample
+booktitle: {name: "Re:VIEW＋InDesign制作技法サンプル", file-as: "リビュー プラス インデザイン セイサクギホウ サンプル"}
+aut: [{name: "武藤 健志", file-as: "ムトウ ケンシ"}]
+
+rights: ["Copyright 2016 Kenshi Muto"]
+date: "2016-06-25"
+
+toclevel: 3
+secnolevel: 2
+
+toc: true
+# coverimage: cover.jpg
+
+colophon: true
+page_metric: B5
+
+highlight:
+  html: pygments
+
+epubmaker:
+  flattoc: true
+  htmlext: xhtml
+  cover_linear: true
+  externallink: true
+  verify_target_images: true
+#  force_include_images: ["images/cover.jpg"]
+#  hook_afterbackmatter: ./htmlfilter.rb
