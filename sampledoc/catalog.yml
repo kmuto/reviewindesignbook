@@ -1,6 +1,7 @@
 # PREDEF:
 
 CHAPS:
+  - idgxml.re
   - sample.re
 
 # APPENDIX:
